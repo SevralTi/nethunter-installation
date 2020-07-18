@@ -10,9 +10,7 @@ This instruction is for OnePlus6(T), but can be reproduced on the other devices 
 
 Install [DJY's](https://github.com/johanlike/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel) Android 9 kernel ([click to download](https://drive.google.com/file/d/1FrT25hp5VJnPVzrlnRIOBt3qpWHR811i) - Magisk v20.1 included) ***OR*** [kimocoder's](https://github.com/kimocoder) Android 10 kernel ([click to download](https://github.com/kimocoder/kernel_oneplus_sdm845))
 
-Install [Magisk module by DJY](https://drive.google.com/file/d/1SLgsikGeNoz5Rc6iGLm3JsmkOTRtXDU3) or [modified one by me](https://github.com/AlexeyZavar/nh-magisk-module) **from Magisk Manager**
-
-Install [BusyBox from Magisk repo or from GitHub](https://github.com/Magisk-Modules-Repo/busybox-ndk)
+Install [Magisk module by DJY](https://drive.google.com/file/d/1SLgsikGeNoz5Rc6iGLm3JsmkOTRtXDU3) or [modified one by me](https://github.com/AlexeyZavar/nh-magisk-module) **from Magisk Manager** or install Full Kali NetHunter
 
 You're ready!
 
